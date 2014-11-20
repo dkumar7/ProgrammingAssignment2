@@ -62,10 +62,6 @@ cacheSolve <- function(x, ...) {
 ##get        1      -none- function
 ##setInverse 1      -none- function
 ##getInverse 1      -none- function
-##> a$get()
-##[,1] [,2]
-##[1,]    1   11
-##[2,]    2   12
 ##> cacheSolve(a)
 ##[,1] [,2]
 ##[1,] -1.2  1.1
